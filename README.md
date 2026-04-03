@@ -55,7 +55,6 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akhilkanta05&theme=tokyonight" />
 </p>
-
 ---
 
 ## 👀 Profile Views
